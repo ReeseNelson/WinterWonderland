@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Bear/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Bear/Content/Village/Maps/Village.umap",
+				"C:/Bear/Content/Village/Maps/_GENERATED/reese/Box_3AC62EBE.uasset",
+				"C:/Bear/Content/Village/Maps/_GENERATED/reese/Torus_1A9BE824.uasset",
+				"C:/Bear/Content/Village/Maps/_GENERATED/reese/Torus_D18095C7.uasset",
+				"C:/Bear/Content/Village/Meshes/cave_bear.uasset",
+				"C:/Bear/Content/Village/Meshes/lambert2.uasset",
+				"C:/Bear/Content/Village/Maps/Village_BuiltData.uasset",
+				"C:/Bear/Content/Village/Meshes/cave.uasset",
+				"C:/Bear/Content/Village/Maps/Village_SummerNightExample_BuiltData.uasset",
+				"C:/Bear/Content/Village/Maps/Village_SummerNightExample.umap"
+			]
+		}
+	]
+}
