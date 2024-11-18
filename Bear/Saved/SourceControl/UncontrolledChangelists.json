@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Github/WinterWonderland/Bear/Content/Ani_Sequences/BuunyGoingtoHome.uasset",
+				"D:/Github/WinterWonderland/Bear/Content/Village/Maps/Village.umap",
+				"D:/Github/WinterWonderland/Bear/Content/LS_GoHomeBunny.uasset",
+				"D:/Github/WinterWonderland/Bear/Content/Ani_Sequences/LS_GoHomeBunny.uasset",
+				"D:/Github/WinterWonderland/Bear/Content/Ani_Sequences/MovieHDPreset.uasset",
 				"C:/Bear/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Bear/Content/Village/Maps/Village.umap",
 				"C:/Bear/Content/Village/Maps/_GENERATED/reese/Box_3AC62EBE.uasset",
